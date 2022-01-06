@@ -20,3 +20,5 @@ This is a simple web project
 Please fork this repository and the issue Pull Requests for review.
 
 ### Copyright
+
+2021 Git.Training. All rights reserved.
